@@ -20,10 +20,10 @@ This data will help us assess what types of films resonate most with audiences b
 # Data Preparation
 Before analysis, the dataset underwent the following preprocessing steps:
 
-Cleaning: Removed duplicate entries, fixed inconsistent genre labeling, and corrected invalid values (e.g., negative budgets).
-Missing Value Handling: Filled or removed rows with missing revenue, budget, or genre information depending on their importance and availability.
-Feature Engineering: Created new features such as ROI (Return on Investment), revenue-to-budget ratio, genre category simplification (e.g., "Action/Adventure", "Drama", "Animation").
-Data Formatting: Ensured date and currency fields were standardized for time-series and comparative analysis.
+Cleaning: Removed duplicate entries, fixed inconsistent genre labeling, and corrected invalid values.
+Missing Value Handling: Filled or removed rows with missing, or genre information depending on their importance and availability.
+Feature Engineering: Created new features for better filtering
+Data Formatting: Ensured date and other fields were standardized.
 
 # Data Analysis
 Our exploratory analysis revealed key insights:
@@ -83,7 +83,7 @@ Images/Icon.jpg
 
 Partials/*.py  [some modules]
 
-PDFs/Dashboard.pdf
+PDFs/Github.pdf
 
 PDFs/Notebook.pdf
 
