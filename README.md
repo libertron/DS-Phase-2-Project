@@ -69,7 +69,7 @@ All code was written in Python using industry-standard libraries such as Pandas,
 ## Repo Structure
 Data/bom.movie_gross.csv.gz
 
-Data/im.db (use this link to download it instead [https://](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3/blob/main/zippedData/im.db.zip))
+Data/im.db (use this link to download it instead [https://github.com/learn-co-curriculum/dsc-phase-2-project-v3/blob/main/zippedData/im.db.zip](https://github.com/learn-co-curriculum/dsc-phase-2-project-v3/blob/main/zippedData/im.db.zip))
 
 Data/rt.movie_info.tsv.gz
 
